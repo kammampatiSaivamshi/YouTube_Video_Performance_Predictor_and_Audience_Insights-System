@@ -107,15 +107,6 @@ To retrain or replace the model:
 
 ---
 
-## 📸 Screenshots
-
-| Prediction Page              | Visual Insights             | Sentiment Analysis               |
-| ---------------------------- | --------------------------- | -------------------------------- |
-| ![Predict](docs/predict.png) | ![Visual](docs/visuals.png) | ![Sentiment](docs/sentiment.png) |
-
-*(Add screenshots to a `/docs` folder if desired)*
-
----
 
 ## 📄 License
 
